@@ -1,0 +1,13 @@
+{
+    "label": "Lombard",
+    "label_lat": "Lombard",
+    "label_en": "Lombard",
+    "lang_dir": "LTR"
+    "available": true, // Should the language be visible in the language picker? true or false
+    "translators": [ // List of people who contributed to the translation
+        {
+            "name": "Sciking",
+            "url": "https://scikingpc.eu"
+        },
+    ]
+}
